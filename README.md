@@ -1,10 +1,10 @@
 ## Description  
 This is simple console application that will help to **Transpose Music Chords**.  
-It is built using **.NET 9 SDK** and supports **Ubuntu/Linux** installation.  
+It is built using **.NET 8 SDK** and supports **Ubuntu/Linux** installation.  
 
 ## Installation Guide  
 
-### **Install .NET 9 on Ubuntu**  
+### **Install .NET 8 on Ubuntu**  
 Follow the steps below Run the following commands:  
 #### Step 1: Install sudo (if not installed)
 ```sh
@@ -17,9 +17,9 @@ sudo apt install lsb-release wget
 wget https://packages.microsoft.com/config/ubuntu/$(lsb_release -rs)/packages-microsoft-prod.deb -O packages-microsoft-prod.deb
 sudo dpkg -i packages-microsoft-prod.deb
 ```
-#### Step 3: Install .NET SDK 9
+#### Step 3: Install .NET SDK 8
 ```sh
-sudo apt install -y dotnet-sdk-9.0
+sudo apt install -y dotnet-sdk-8.0
 ```
 #### Step 4: Clone Git Repository
 ```sh
