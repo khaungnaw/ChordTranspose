@@ -1,0 +1,14 @@
+c:\Users\Besam Khaung Naw\ChordTranspose\bin\Debug\net9.0\ChordTranspose.exe
+c:\Users\Besam Khaung Naw\ChordTranspose\bin\Debug\net9.0\ChordTranspose.deps.json
+c:\Users\Besam Khaung Naw\ChordTranspose\bin\Debug\net9.0\ChordTranspose.runtimeconfig.json
+c:\Users\Besam Khaung Naw\ChordTranspose\bin\Debug\net9.0\ChordTranspose.dll
+c:\Users\Besam Khaung Naw\ChordTranspose\bin\Debug\net9.0\ChordTranspose.pdb
+c:\Users\Besam Khaung Naw\ChordTranspose\obj\Debug\net9.0\ChordTranspose.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Besam Khaung Naw\ChordTranspose\obj\Debug\net9.0\ChordTranspose.AssemblyInfoInputs.cache
+c:\Users\Besam Khaung Naw\ChordTranspose\obj\Debug\net9.0\ChordTranspose.AssemblyInfo.cs
+c:\Users\Besam Khaung Naw\ChordTranspose\obj\Debug\net9.0\ChordTranspose.csproj.CoreCompileInputs.cache
+c:\Users\Besam Khaung Naw\ChordTranspose\obj\Debug\net9.0\ChordTranspose.dll
+c:\Users\Besam Khaung Naw\ChordTranspose\obj\Debug\net9.0\refint\ChordTranspose.dll
+c:\Users\Besam Khaung Naw\ChordTranspose\obj\Debug\net9.0\ChordTranspose.pdb
+c:\Users\Besam Khaung Naw\ChordTranspose\obj\Debug\net9.0\ChordTranspose.genruntimeconfig.cache
+c:\Users\Besam Khaung Naw\ChordTranspose\obj\Debug\net9.0\ref\ChordTranspose.dll
