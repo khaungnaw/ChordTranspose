@@ -1,0 +1,59 @@
+## Ignore Visual Studio specific files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Ignore build outputs
+bin/
+obj/
+out/
+TestResults/
+*.log
+*.vspscc
+*.vssscc
+
+## Ignore dependency folders
+packages/
+node_modules/
+bower_components/
+
+## Ignore .NET Core specific files
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.deps.json
+*.runtimeconfig.json
+*.pdb
+*.dll
+*.exe
+*.so
+*.dylib
+*.log
+
+## Ignore Rider / JetBrains specific files
+.idea/
+*.sln.iml
+
+## Ignore Resharper files
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+## Ignore database and user files
+*.mdf
+*.ldf
+*.sqlite
+*.db
+
+## Ignore configuration files
+appsettings*.json
+secrets.json
+
+## Ignore publish files
+publish/
+wwwroot/
+
+## Ignore MacOS / Linux system files
+.DS_Store
+Thumbs.db
