@@ -12,6 +12,7 @@ apt-get install sudo -y
 ```
 #### Step 2: Install Microsoft Package Repository
 ```sh
+apt-get update
 sudo apt install lsb-release wget
 wget https://packages.microsoft.com/config/ubuntu/$(lsb_release -rs)/packages-microsoft-prod.deb -O packages-microsoft-prod.deb
 sudo dpkg -i packages-microsoft-prod.deb
