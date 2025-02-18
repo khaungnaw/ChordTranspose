@@ -16,7 +16,7 @@ class Program
         Console.WriteLine("Input Current Chord By Comma Separator: example (C,Am,F,Bb,G7,Gbm)");
         string input_current_chords = Console.ReadLine().ToString();
 
-        Console.WriteLine("Input Transposed Key: example (C)");
+        Console.WriteLine("Input Transposed Key: example (D)");
         string input_expected_transposed_key = Console.ReadLine().ToString();
 
         if (!keys.ContainsKey(input_expected_transposed_key))
@@ -30,7 +30,7 @@ class Program
         int key_gap = input_expected_transposed_key_index - input_current_key_index;
 
         string transformedNotes = Transform(input_chords, key_gap);
-        Console.WriteLine($"Composed Key {transformedNotes}");
+        Console.WriteLine($"Transposed Chords : {transformedNotes}");
     }
 
     static string Transform(string[] input_chords, int key_gap)
