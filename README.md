@@ -8,8 +8,7 @@ It is built using **.NET 9 SDK** and supports **Ubuntu/Linux** installation.
 Follow the steps below Run the following commands:  
 #### Step 1: Install sudo (if not installed)
 ```sh
-sudo apt update
-sudo apt install -y lsb-release wget
+apt-get install sudo -y
 ```
 #### Step 2: Install Microsoft Package Repository
 ```sh
